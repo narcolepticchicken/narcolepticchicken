@@ -1,4 +1,4 @@
-# Hi — I build legal AI you can actually trust
+# Hi — I build legal AI stuff. 
 
 I'm a practicing technology lawyer and ML engineer. I work on the unglamorous
 half of "legal AI": making a model's output **verifiable**, **auditable**, and
