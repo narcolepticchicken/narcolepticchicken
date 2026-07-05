@@ -1,11 +1,11 @@
 # Hi — I build legal AI stuff. 
 
-I'm a practicing technology lawyer and ML engineer. I work on the unglamorous
+I'm a practicing technology lawyer and legal engineer. I work on the unglamorous
 half of "legal AI": making a model's output **verifiable**, **auditable**, and
 **safe to rely on unsupervised** — not just fluent.
 
 The through-line across everything here is **deterministic verifiers and honest
-evaluation over vibes.** A legal answer you can't check is a liability, so I
+evaluation.** A legal answer you can't check is a liability, so I
 build the checkers.
 
 ---
