@@ -4,10 +4,6 @@ I'm a practicing technology lawyer and legal engineer. I work on the unglamorous
 half of "legal AI": making a model's output **verifiable**, **auditable**, and
 **safe to rely on unsupervised** — not just fluent.
 
-The through-line across everything here is **deterministic verifiers and honest
-evaluation.** A legal answer you can't check is a liability, so I
-build the checkers.
-
 ---
 
 ### 🧪 Verifiable legal environments
@@ -31,7 +27,3 @@ build the checkers.
 
 ---
 
-### How I work
-- **Honest metrics.** If a number can't be reproduced from the repo, it doesn't go in the README.
-- **Deterministic where it counts.** Verifier/regex gates over LLM judgment for anything safety-critical — auditable and reproducible by construction.
-- **Abstention over confident-wrong.** The trustworthy primitive is knowing when *not* to answer.
