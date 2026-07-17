@@ -12,6 +12,9 @@ build the checkers.
 
 ### 🧪 Verifiable legal environments
 - **[gdpr-dpa-art28-env](https://github.com/narcolepticchicken/gdpr-dpa-art28-env)** — a deterministic, verifiable reward environment that scores GDPR Article 28(3) Data Processing Agreements clause-by-clause, with evidence spans and adversarial evasion tests. A worked example of RL-with-verifiable-rewards over legal text.
+- **[redline-gym](https://github.com/narcolepticchicken/redline-gym)** — a verifiable RL environment for AI contract review, with planted mistakes, deterministic span-level scoring, and baselines designed to catch bluffing and keyword matching.
+- **[prime-legal-envs](https://github.com/narcolepticchicken/prime-legal-envs)** — verifiable RL environments for corporate law and governance, built around synthetic worlds and deterministic rewards rather than LLM judges.
+- **[m8-market-structure-rails](https://github.com/narcolepticchicken/m8-market-structure-rails)** — mechanically verifiable RL environments for mapping the legal impact of crypto market-structure regulation.
 
 ### ⚖️ Legal AI, built with guardrails
 - **[counselbridge](https://github.com/narcolepticchicken/counselbridge)** — grounded legal chat with enforced citations, fail-closed attorney-review routing, and a hash-chained audit trail.
