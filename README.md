@@ -1,16 +1,16 @@
-# Hi, I’m Aaron.
+# hey
 
-I’m a technology lawyer and legal engineer. I build legal-AI experiments, contract-review tools, and agent infrastructure—mostly because it seemed easier than having hobbies.
+I'm Aaron. I'm a lawyer who keeps building software instead of taking weekends off.
 
-I like making software that is useful, inspectable, and a little harder to bluff. Sometimes that means training environments; sometimes it means a local app that explains a clause without sending it on a magical mystery tour through the cloud.
+Mostly I make things around legal work, AI, contracts, and the general problem of getting a computer to do something useful without confidently making everything worse. I use LLMs a lot. I do not believe them about anything.
 
-## A few things I’ve made
+Some stuff I've been messing with:
 
-- **[redline-gym](https://github.com/narcolepticchicken/redline-gym)** — contract-review training environments with known mistakes. Like law school issue-spotting, but the assignment can talk back.
-- **[prime-legal-envs](https://github.com/narcolepticchicken/prime-legal-envs)** — legal and governance environments for testing AI systems without first testing them on someone’s actual company.
-- **[counselbridge](https://github.com/narcolepticchicken/counselbridge)** — grounded legal chat with citations and an escape hatch to a real attorney.
-- **[plainclause](https://github.com/narcolepticchicken/plainclause)** — local-first contract explanations and guarded rewrites.
-- **[LeBlox](https://github.com/narcolepticchicken/LeBlox)** — a legal-AI workbench that takes confidentiality seriously.
-- **[leto](https://github.com/narcolepticchicken/leto)** and **[highland](https://github.com/narcolepticchicken/highland)** — tools for building and managing agents, because apparently one agent was not enough.
+- [redline-gym](https://github.com/narcolepticchicken/redline-gym) — contract-review training stuff
+- [prime-legal-envs](https://github.com/narcolepticchicken/prime-legal-envs) — legal/governance environments for testing models
+- [counselbridge](https://github.com/narcolepticchicken/counselbridge) — legal chat, but with citations and a human escape hatch
+- [plainclause](https://github.com/narcolepticchicken/plainclause) — explain a contract clause without shipping it off to who-knows-where
+- [LeBlox](https://github.com/narcolepticchicken/LeBlox) — legal AI workbench / attempt to keep client stuff where it belongs
+- [leto](https://github.com/narcolepticchicken/leto) and [highland](https://github.com/narcolepticchicken/highland) — agent tools, because apparently I needed another project
 
-There’s more in the repositories. None of this is legal advice, but some of it may be a cry for help.
+There’s more here if you feel like digging around. Nothing here is legal advice. Obviously.
