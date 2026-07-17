@@ -1,9 +1,6 @@
 # Hi — I build legal AI stuff. 
 
-I'm a practicing technology lawyer and legal engineer. I work on the unglamorous
-half of "legal AI": making a model's output **verifiable**, **auditable**, and
-**safe to rely on unsupervised** — not just fluent.
-
+I'm a walking anxiety disorder harnessed for productivity.  My agents are reflective of my personality. I like to build, tear down, and build more.
 ---
 
 ### 🧪 Verifiable legal environments
