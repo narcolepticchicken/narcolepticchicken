@@ -6,6 +6,16 @@ I work on legal AI, contracts, and the problem of getting a computer to be usefu
 
 This is a map, not a complete list. A lot of the projects below are experiments; some are more polished than others. That’s life.
 
+## recent public work
+
+Public repositories created or updated in the last 30 days, checked 2026-08-05:
+
+- [awesome-legal-benchmarks](https://github.com/narcolepticchicken/awesome-legal-benchmarks) — an evidence-first catalog of legal AI benchmarks, datasets, evaluation frameworks, metrics, and verified primary resources. *(created 2026-08-04; last activity 2026-08-05)*
+- [overseer-llc](https://github.com/narcolepticchicken/overseer-llc) — a Delaware LLC operating agreement with an AI Council in it, with the full adversarial review trail. *(created 2026-07-23; last activity 2026-07-28)*
+- [legal-budget-builder](https://github.com/narcolepticchicken/legal-budget-builder) — a desktop-first tool for transparent legal-fee estimates and styled Excel exports. *(created 2026-07-18; last activity 2026-07-18)*
+- [teacherlab](https://github.com/narcolepticchicken/teacherlab) — a slow-roll post-training teaching lab for lawyers, with runnable lessons and environment-design work. *(created 2026-07-13; last activity 2026-07-16)*
+- [redline-gym](https://github.com/narcolepticchicken/redline-gym) — a verifiable RL environment for contract review with planted mistakes and deterministic span-level scoring. *(created 2026-07-08; last activity 2026-07-12)*
+
 ## legal AI / things that need to be checked
 
 - [redline-gym](https://github.com/narcolepticchicken/redline-gym) — contract-review training environments with known mistakes in them
